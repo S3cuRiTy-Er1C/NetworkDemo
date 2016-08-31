@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NetworkMasterDemo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="accessibility_service_description">TCL强力加速调研DEMO\nAuto Froce Stop</string>
+	<string name="fileSizeSuffix">%1$s%2$s</string>
+	
+</resources>
